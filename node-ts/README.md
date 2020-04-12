@@ -1,4 +1,4 @@
-### Configurando projeto TypeScript
+# Configurando projeto TypeScript
 
 ## Iniciando um projeto Node.js
 

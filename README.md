@@ -1,4 +1,4 @@
-### TypeScript - O que carambas é? 
+# TypeScript - O que carambas é? 
 
 Uma linguagem, como o JavaScript, baseada no JavaScript, então é JavaScript, porém, de forma tipada ao contrario do JavaScript que tem tipagem dinamica. 
 
@@ -17,11 +17,11 @@ Diversos editores de texto (Ex: VsCode) permitem integrações do com o TypeScri
 
 ## Mitos e Verdades
 
-# TypeScript diminui a produtividade? 
+### TypeScript diminui a produtividade? 
 
 * Sim, pode diminuir no começo por não estar acostumado com a sintaxe e o fluxo, porém com o tempo de uso do TypeScript cria uma curva negativa, pois a produtividade acaba crescendo devido as ferramentas que ele cria para o desenvolvedor.
 
-# TypeScript é transformar JavaScript em Java ou C#?
+### TypeScript é transformar JavaScript em Java ou C#?
 
 * Não, TypeScript não é fortemente tipada, igual Java ou C#, ele é uma liguagem fracamente tipada, ou seja, você não é obrigado a definir tipo em TODAS as variaveis do projeto, porém, ele permite que elas recebam tipagem sim quando for necessário. Depende da sitaução o que a torna flexivel nesse ponto. 
 
