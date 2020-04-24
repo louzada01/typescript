@@ -1,9 +1,8 @@
 import { Router } from 'express';
+import appointmentsRouter from './appointments.routes';
 
 const routes = Router();
 
-routes.get('/', (req, res) => {
-  return res.json({ message: 'Hello project in TypeScript.' });
-});
+routes.use('/appointments', appointmentsRouter);
 
 export default routes;
