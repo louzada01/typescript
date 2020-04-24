@@ -25,15 +25,15 @@ Diversos editores de texto (Ex: VsCode) permitem integrações do com o TypeScri
 
 * Não, TypeScript não é fortemente tipada, igual Java ou C#, ele é uma liguagem fracamente tipada, ou seja, você não é obrigado a definir tipo em TODAS as variaveis do projeto, porém, ele permite que elas recebam tipagem sim quando for necessário. Depende da sitaução o que a torna flexivel nesse ponto. 
 
-## O mercado não usa TypeScript ? 
+### O mercado não usa TypeScript ? 
 
 * Mito, o mercado está adotando TypeScript para o uso em desenvolviemnto, pois, permite a inclusão mais fácil de desenvolvedores em projetos por ja manter padrões de código. 
 
-## O TypeScript substitui o JavaScript por completo? 
+### O TypeScript substitui o JavaScript por completo? 
 
 * Não, o TypeScript é baseado no JavaScript, então ele segue o JavaScript ao inves de mudar o JavaScript. Ele vem para agregar um valor maior para o JavaScript em ambiente de desenvolviemtno, permintindo uma função que o JavaScript não conseguia entregar antes de sua chegada. 
 
-## O TypeScript atrapalha quem é iniciante? 
+### O TypeScript atrapalha quem é iniciante? 
 
 * Sim, no mesmo conceito do tópico de diminuição de produtividade, ele vai atraplhar sim quem é iniciante no começo, por abordar conceitos diferentes do JavaScript puto, o que cria um certo conflito de entendimento ao ver um código TS e um JS lado a lado, porém com o tempo isso vem sendo mudado, ja que a curva tende a se inverter nesse ponto. 
 
